@@ -3,12 +3,22 @@ Wondershare Filmora Full Version 13 x64 Offline Installer
 
 A public backup for the people that purchased the software and did not purchase the 'Download Insurance'? 
 
--Clone this repo
--Use Winrar and open Part One
--Extract the file
+
+## Clone this repo
+
+git clone https://github.com/noarche/wondershare-filmora-13-offline-installer
 
 
-File: filmora-idco_64bit_full1901.exe
+## Extraction:
+Winrar can be found at https://www.rarlab.com/download.htm
+
+Open part one of the archive to extract the following file:
+
+
+## File: 
+
+filmora-idco_64bit_full1901.exe
+
 SHA1: 286905d66067a14d7b9afd735e423fd2fe650bd4
 
 SHA256: b194aaed5b10d815f863a93ddb819c413769db2d41785e37b3053efba9150f54
