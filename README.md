@@ -30,3 +30,20 @@ SHA512: fd10326baf89537a910b59ef56a33c3a3481037a6eb19cc6a8f7c8c7d326a42c8f2174b6
 ## VirusTotal Results
 
 https://www.virustotal.com/gui/file/b194aaed5b10d815f863a93ddb819c413769db2d41785e37b3053efba9150f54
+
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/noarche/wondershare-filmora-13-offline-installer/main/Screenshot%202024-06-25%20060906.png)
+
+## Support
+
+Drop a tip
+
+    (BTC) address bc1qnpjpacyl9sff6r4kfmn7c227ty9g50suhr0y9j
+    
+    (ETH) address 0x94FcBab18E4c0b2FAf5050c0c11E056893134266
+    
+    (LTC) address ltc1qu7ze2hlnkh440k37nrm4nhpv2dre7fl8xu0egx
+
+
+![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche&show_icons=true&theme=transparent)
